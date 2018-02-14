@@ -13,7 +13,7 @@
 项目组信息：
 
 - 张庭梁   zhangtl16@mails.tsinghua.edu.cn
-- 田润卉
+- 田润卉   trh16@mails.tsinghua.edu.cn
 - 陈怡    chenyi15@mails.tsinghua.edu.cn
 - 张旭婕
 - 康熔芹   krq16@mails.tsinghua.edu.cn
